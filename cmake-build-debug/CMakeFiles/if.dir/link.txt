@@ -1,0 +1,1 @@
+/usr/bin/gcc -g   CMakeFiles/if.dir/if.c.o  -o if -lm 
